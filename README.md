@@ -1,3 +1,3 @@
 # Projetos e Invação em TI
 
-## Contexto
+## Estudo do problema
