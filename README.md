@@ -38,5 +38,3 @@ Armazena senhas, substitui todos os sistemas de autenticação existentes, reali
 ### b) Descreva o objetivo do produto/serviço (do ponto de vista de quem usa)<br/>
 Objetivo do NeuroAuth:<br/>
 Proporcionar autenticação digital contínua, segura e imperceptível para usuários de plataformas digitais, reduzindo riscos de fraude e melhorando a experiência sem fricção.<br/>
-
-Se quiser, posso incluir os 3 objetivos de cada membro da equipe para você agrupar e chegar nessa visão final. Deseja fazer isso?<br/>
