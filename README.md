@@ -10,10 +10,10 @@ Desenvolver biometria cognitiva, que analisa padrões de comportamento ou respos
 
 ## Modelo de Visão de Produto/Serviço
 
-Para empresas e plataformas digitais, /n
-que enfrentam riscos de segurança e dificuldades com métodos de autenticação tradicionais,
-o NeuroAuth
-é uma solução de autenticação baseada em biometria cognitiva,
-que oferece autenticação contínua, segura e sem fricção para o usuário.
-Diferentemente das senhas ou autenticações repetitivas,
-o nosso produto detecta comportamentos anômalos em tempo real com base nos padrões cognitivos do usuário, elevando a segurança sem comprometer a experiência.
+Para empresas e plataformas digitais,<br/>
+que enfrentam riscos de segurança e dificuldades com métodos de autenticação tradicionais,<br/>
+o NeuroAuth<br/>
+é uma solução de autenticação baseada em biometria cognitiva,<br/>
+que oferece autenticação contínua, segura e sem fricção para o usuário.<br/>
+Diferentemente das senhas ou autenticações repetitivas,<br/>
+o nosso produto detecta comportamentos anômalos em tempo real com base nos padrões cognitivos do usuário, elevando a segurança sem comprometer a experiência.<br/>
